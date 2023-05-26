@@ -1,0 +1,13 @@
+.d-flex {
+  background: linear-gradient(90deg, #a3b2cf, #1e1eef);
+  color: white;
+  font-size: large;
+}
+
+.bg-nav {
+  background: linear-gradient(90deg, #a3b2cf, #1e1eef);
+}
+
+.text-blue {
+  color: #c81616;
+}
